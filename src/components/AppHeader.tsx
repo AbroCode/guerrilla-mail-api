@@ -1,4 +1,4 @@
-import { Mail, Github } from 'lucide-react';
+import { Mail } from 'lucide-react';
 
 export function AppHeader() {
   return (
